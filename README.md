@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Discord-Portoflio-Card</h1>
+<h1>Portoflio-Card</h1>
 
 <h6>A Simple Static Card Style Portoflio Wbsite Template with Discord Theme</h6>
 
