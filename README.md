@@ -8,7 +8,7 @@
 <img src="README.assets/Web_Preview.png" alt="Web_Preview"/>
 </a>
 
-[![](https://img.shields.io/badge/Demo%20Preview-7289da?style=for-the-badge&logoColor=white)](https://discord-portfolio-card.vercel.app/)
+[![](https://img.shields.io/badge/Demo%20Preview-7289da?style=for-the-badge&logoColor=white)](https://portfolio-card-sang-buster.vercel.app/)
 
 ---
 
