@@ -16,4 +16,13 @@
 
 <img src="README.assets/Discord_Color_Palette.png" alt="Discord_Color_Palette"/>
 
+<h3>🚀 Set-up</h3>
+
 </div>
+
+Clone this repository to a location of your choice
+
+```bash
+git clone https://github.com/Sang-Buster/Portfolio-Card.git && cd Portofolio-Card && cd src
+```
+Then use any tools you wish to open `index.html` and enjoy!
