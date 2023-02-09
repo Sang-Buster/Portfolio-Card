@@ -4,7 +4,7 @@
 
 <h6>A Simple Static Card Style Portoflio Wbsite Template with Discord Theme</h6>
 
-<a href="https://discord-portfolio-card.vercel.app/" _target="blank">
+<a href="https://portfolio-card-sang-buster.vercel.app/" _target="blank">
 <img src="README.assets/Web_Preview.png" alt="Web_Preview"/>
 </a>
 
