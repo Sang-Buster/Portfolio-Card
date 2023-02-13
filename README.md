@@ -23,6 +23,6 @@
 Clone this repository to a location of your choice
 
 ```bash
-git clone https://github.com/Sang-Buster/Portfolio-Card.git && cd Portofolio-Card && cd src
+git clone https://github.com/Sang-Buster/Portfolio-Card.git && cd Portfolio-Card && cd src
 ```
 Then use any tools you wish to open `index.html` and enjoy!
