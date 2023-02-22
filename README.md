@@ -25,4 +25,4 @@ Clone this repository to a location of your choice
 ```bash
 git clone https://github.com/Sang-Buster/Portfolio-Card.git && cd Portfolio-Card && cd src
 ```
-Then use any tools you wish to open `index.html` and enjoy!
+Then use any tools you wish to open/edit `index.html` and enjoy!
