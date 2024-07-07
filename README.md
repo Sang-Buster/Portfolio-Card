@@ -2,7 +2,7 @@
 
 <h1>Portoflio-Card</h1>
 
-<h6>A Simple Card Style Static Wbsite Template with Discord Theme</h6>
+<h6>A Simple Card Style Static Website Template with Discord Theme</h6>
 
 <a href="https://portfolio-card-sang-buster.vercel.app/" _target="blank">
 <img src="README.assets/Web_Preview.png" alt="Web_Preview"/>
